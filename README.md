@@ -9,30 +9,30 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I recently completed my **Intermediate in Computer Science** (May 2025)  
-- 💻 I have **1 year of experience** in front-end web development  
-- 🎨 Passionate about building beautiful, accessible, and responsive user interfaces  
-- 🌱 Currently enhancing my skills in **TypeScript** and **UI animations**
+- 🎓 Completed **Intermediate in Computer Science** in **May 2025**  
+- 💻 **1 year of experience** in front-end web development  
+- 🎨 Passionate about crafting responsive, clean, and modern UIs  
+- 🌱 Currently exploring **TypeScript**, **Tailwind CSS**, and **UI animation frameworks**
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Front-End     | Tools & Platforms  | Learning    |
-|---------------|--------------------|-------------|
-| HTML5         | Git & GitHub       | React       |
-| CSS3 / SCSS   | VS Code            | Next.js     |
-| JavaScript    | Figma / Canva      | Framer Motion |
-| Bootstrap     | Chrome DevTools    | Tailwind CSS |
-| TypeScript    | Netlify / Vercel   | Firebase    |
+| Front-End     | Tools & Platforms  | Learning       |
+|---------------|--------------------|----------------|
+| HTML5         | Git & GitHub       | React          |
+| CSS3 / SCSS   | VS Code            | Next.js        |
+| JavaScript    | Chrome DevTools    | Framer Motion  |
+| Bootstrap     | Figma / Canva      | Tailwind CSS   |
+| TypeScript    | Netlify / Vercel   | Firebase       |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/MUHAMMAD-SARIM001/&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MUHAMMAD-SARIM001/&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-SARIM001&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-SARIM001&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -41,13 +41,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:muhammad.sarim001100@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https:sarimsportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sarimsportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
 
-- I love crafting pixel-perfect UI and can turn wireframes into clean, interactive web pages!
-
+- I enjoy turning complex UI designs into beautiful, functional websites that load fast and feel intuitive!
